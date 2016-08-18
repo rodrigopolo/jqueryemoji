@@ -14,7 +14,7 @@
     "img_demo/*",
     "js/jQueryEmoji_un.js",
     "README*",
-    "LICENSE*"
+    "LICENSE*",
     ".git*",
     ".travis*",
     "*bower.json",
