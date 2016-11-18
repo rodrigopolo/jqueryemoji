@@ -1,0 +1,20 @@
+{
+  "name": "nmd-jqueryemoji",
+  "version": "1.0.1",
+  "private": true,
+  "description": "jQuey emoji parser fork of https://github.com/rodrigopolo/jqueryemoji",
+  "main": "js/jQueryEmoji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rodrigopolo/jqueryemoji.git#1.0.1"
+  },
+  "engines": {
+    "npm": ">=3"
+  },
+  "author": "darknelmail.com@mail.ru",
+  "license": "MIT"
+}
