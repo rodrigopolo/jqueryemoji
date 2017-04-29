@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "homepage": "https://github.com/rodrigopolo/jqueryemoji",
   "description": "Yet another jQuery emoji parser plug-in, designed differently to be fast, small, simple and scalable.",
-  "main": ["js/jQueryEmoji.min.js", "js/jQueryEmoji.js", "css/style.css"],
+  "main": ["js/jQueryEmoji.js", "css/style.css"],
 "ignore":
   [
     "css/demo.css",
