@@ -1,20 +1,9 @@
 {
-  "name": "nmd-jqueryemoji",
+  "name": "jqueryemoji",
   "version": "1.0.1",
-  "private": true,
-  "description": "jQuey emoji parser fork of https://github.com/rodrigopolo/jqueryemoji",
+  "description": "Yet another jQiuery emoji parser plug-in, designed differently to be fast, small, simple and scalable.",
   "main": "js/jQueryEmoji.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gulp"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:Go-Promo/jqueryemoji.git#1.0.1"
-  },
-  "engines": {
-    "npm": ">=3"
-  },
-  "author": "darknelmail.com@mail.ru",
+  "repository": "git@github.com:rodrigopolo/jqueryemoji.git",
+  "author": "Rodrigo Polo <rodrigo.polo@gmail.com>",
   "license": "MIT"
 }
