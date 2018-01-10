@@ -1,0 +1,9 @@
+{
+  "name": "jqueryemoji",
+  "version": "1.0.1",
+  "description": "Yet another jQiuery emoji parser plug-in, designed differently to be fast, small, simple and scalable.",
+  "main": "js/jQueryEmoji.js",
+  "repository": "git@github.com:rodrigopolo/jqueryemoji.git",
+  "author": "Rodrigo Polo <rodrigo.polo@gmail.com>",
+  "license": "MIT"
+}
